@@ -1,0 +1,8 @@
+
+/node_modules
+./client/node_modules
+./api/node_modules
+./api/dist
+./client/build
+# These files most likely will contain credentials and sensitive data, it should not be
+# exposed in any version control hosting provider(Github, Gitlab...)
